@@ -1,4 +1,4 @@
-Background Color Changer 🌈
+Color Changer 🌈
 This is a straightforward, beginner-friendly web project that demonstrates how to dynamically change the background color of a webpage using vanilla JavaScript event listeners.
 
 ✨ Features
@@ -25,7 +25,7 @@ Navigate to the project directory:
 
 Bash
 
-cd background-color-changer
+cd Color-changer
 Open index.html in your web browser.
 
 📝 Project Structure
