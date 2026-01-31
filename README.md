@@ -2,6 +2,8 @@
 
 This is a straightforward, beginner-friendly web project that demonstrates how to dynamically change the background color of a webpage using vanilla JavaScript event listeners.
 
+---
+
 ## ✨ Features  
 
 **Interactive Color Palette**: Clickable list items that represent different colors.
@@ -10,6 +12,8 @@ This is a straightforward, beginner-friendly web project that demonstrates how t
 
 **Clean Styling**: Uses Flexbox for centering the color list on the page.
 
+---
+
 ## ⚙️ Technologies Used  
 
 HTML5 (for structure)
@@ -17,6 +21,8 @@ HTML5 (for structure)
 CSS3 (for styling and layout)
 
 JavaScript (ES6) (for interactivity)
+
+---
 
 ## 🚀 How to Run Locally  
 
@@ -33,6 +39,8 @@ cd Color-changer
 ```
 
 Open index.html in your web browser.
+
+---
 
 ## 📝 Project Structure  
 
