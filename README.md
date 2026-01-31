@@ -1,21 +1,25 @@
-Color Changer 🌈
+# Color Changer 🌈  
+
 This is a straightforward, beginner-friendly web project that demonstrates how to dynamically change the background color of a webpage using vanilla JavaScript event listeners.
 
-✨ Features
-Interactive Color Palette: Clickable list items that represent different colors.
+## ✨ Features  
 
-Dynamic Styling: JavaScript listens for clicks and updates the body's background color based on the clicked item's ID.
+**Interactive Color Palette**: Clickable list items that represent different colors.
 
-Clean Styling: Uses Flexbox for centering the color list on the page.
+**Dynamic Styling**: JavaScript listens for clicks and updates the body's background color based on the clicked item's ID.
 
-⚙️ Technologies Used
+**Clean Styling**: Uses Flexbox for centering the color list on the page.
+
+## ⚙️ Technologies Used  
+
 HTML5 (for structure)
 
 CSS3 (for styling and layout)
 
 JavaScript (ES6) (for interactivity)
 
-🚀 How to Run Locally
+## 🚀 How to Run Locally  
+
 Clone the repository:
 
 ```bash
@@ -27,9 +31,11 @@ Navigate to the project directory:
 ```bash
 cd Color-changer
 ```
+
 Open index.html in your web browser.
 
-📝 Project Structure
+## 📝 Project Structure  
+
 The project consists of three main files:
 
 index.html: The main structure of the web page.
