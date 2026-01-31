@@ -18,14 +18,15 @@ JavaScript (ES6) (for interactivity)
 🚀 How to Run Locally
 Clone the repository:
 
-Bash
-
+```bash
 git clone https://github.com/aryandevra24/Color-changer.git
+```
+
 Navigate to the project directory:
 
-Bash
-
+```bash
 cd Color-changer
+```
 Open index.html in your web browser.
 
 📝 Project Structure
