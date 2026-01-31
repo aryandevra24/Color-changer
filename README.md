@@ -46,8 +46,8 @@ Open index.html in your web browser.
 
 The project consists of three main files:
 
-index.html: The main structure of the web page.
+**index.html**: The main structure of the web page.
 
-style.css: Contains CSS rules for basic layout and styling.
+**style.css**: Contains CSS rules for basic layout and styling.
 
-script.js: The JavaScript file that handles the click events and changes the background color.
+**script.js**: The JavaScript file that handles the click events and changes the background color.
