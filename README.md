@@ -51,3 +51,5 @@ The project consists of three main files:
 **style.css**: Contains CSS rules for basic layout and styling.
 
 **script.js**: The JavaScript file that handles the click events and changes the background color.
+
+---
