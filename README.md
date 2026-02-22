@@ -52,4 +52,3 @@ The project consists of three main files:
 
 **script.js**: The JavaScript file that handles the click events and changes the background color.
 
----
